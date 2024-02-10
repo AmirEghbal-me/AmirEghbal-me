@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Amir Eghbal and I'm a Laravel developer, from Iran</h2>
+<h2 align="left">Hi 👋! My name is Amir Eghbal and I'm a Laravel developer</h2>
 
 ###
 
